@@ -1,0 +1,13 @@
+.book{
+    border: 2px solid black;
+    background-color: aqua;
+    min-height: 300px;
+    width: 300Px;
+    /* flex-wrap: wrap; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
